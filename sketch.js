@@ -67,7 +67,6 @@ function setup() {
    enemy2.addAnimation("Enemy2", enemy2Img);
    enemy2.scale = 0.5;
    enemy2.visible = true;
-   enemy2.debug = true;
    enemy2.velocityX = 0;
   
 
